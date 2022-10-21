@@ -1,0 +1,44 @@
+{
+    "todos": [{
+            "id": "1",
+            "category": "null",
+            "title": "가족 여행 기차표 예매하기",
+            "place": "코레일 앱",
+            "deadlinedate": "2022. 10. 20.",
+            "deadlinetime": "오후 2:00",
+            "priority": "1",
+            "finished": "false"
+        },
+        {
+            "id": "2",
+            "category": "null",
+            "title": "연말 감사 카드 디자인하기",
+            "place": "집 아니면 카페?",
+            "deadlinedate": "2022. 11. 30.",
+            "deadlinetime": "null",
+            "priority": "2",
+            "finished": "false"
+
+        },
+        {
+            "id": "3",
+            "category": "null",
+            "title": "넷플릭스로 TAKE1 박정현편 보기",
+            "place": "방구석 1열",
+            "deadlinedate": "2022. 10. 18.",
+            "deadlinetime": "null",
+            "priority": "1",
+            "finished": "false"
+        },
+        {
+            "id": "4",
+            "category": "null",
+            "title": "인라인 스케이트 타기",
+            "place": "아파트 단지 놀이터",
+            "deadlinedate": "2022. 10. 19.",
+            "deadlinetime": "오후 7:00",
+            "priority": "2",
+            "finished": "true"
+        }
+    ]
+}
