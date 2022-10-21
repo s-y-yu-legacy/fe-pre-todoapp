@@ -4,7 +4,9 @@ const useFetch = (url) => {
   const [value, setValue] = useState('');
   // const [isPending, setIsPending] = useState(true);
   // const [error, setError] = useState(null);
+
   // const todoMemo = useMemo(() => value, [value]);
+
   useEffect(() => {
     fetch(url)
       .then((res) => {
