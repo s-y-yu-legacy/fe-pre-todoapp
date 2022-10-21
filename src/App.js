@@ -1,7 +1,9 @@
 import './App.css';
+
 // import { Suspense, lazy } from 'react';
 // import { BrowserRouter, Router, Routes, Route } from 'react-router-dom'
 // import Loading from './components/Loading';
+
 import Nav from './components/Nav';
 import Home from './components/Home';
 // const Home = lazy(() => import('./components/Home'))
